@@ -1,1 +1,1 @@
-console.log("change");
+alert("deep learning");
